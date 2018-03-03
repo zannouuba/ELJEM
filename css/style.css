@@ -1,0 +1,17 @@
+
+li{
+	color:black;
+	display: inline-block;
+	width: 6%;
+	background-color: grey;
+	height: 4vh;
+	padding-left: 3%;
+	padding-top: 1%;
+}
+
+li:hover{
+	color: white;
+	background-color: black;
+	border: 1px solid;
+
+}
